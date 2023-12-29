@@ -1,15 +1,5 @@
-# discord-v14-ts-template
-
-### cd .. Start
-```js
-npm i
+``#env``
 ```
-```js
-npm run dev
-```
-#
-### cd .. Dotenv
-```js
 TOKEN =
 PREFIX =
 DATABASE =
